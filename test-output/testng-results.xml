@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-18T14:41:03Z" name="Default suite" finished-at="2024-10-18T14:41:10Z" duration-ms="6872">
+    <groups>
+    </groups>
+    <test started-at="2024-10-18T14:41:03Z" name="Default test" finished-at="2024-10-18T14:41:10Z" duration-ms="6872">
+      <class name="TestCases.TC_Dynamic">
+        <test-method signature="loginTest()[pri:0, instance:TestCases.TC_Dynamic@202b0582]" started-at="2024-10-18T20:11:03Z" name="loginTest" finished-at="2024-10-18T20:11:10Z" duration-ms="6857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- TestCases.TC_Dynamic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
